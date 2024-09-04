@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityMvcApp", "UnityMvcApp\UnityMvcApp.csproj", "{A917899D-4A4B-4B85-A4F9-6B5769390CA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A917899D-4A4B-4B85-A4F9-6B5769390CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A917899D-4A4B-4B85-A4F9-6B5769390CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A917899D-4A4B-4B85-A4F9-6B5769390CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A917899D-4A4B-4B85-A4F9-6B5769390CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B87D3CD-3B00-404B-86D8-B7AE3D9CDB37}
+	EndGlobalSection
+EndGlobal
